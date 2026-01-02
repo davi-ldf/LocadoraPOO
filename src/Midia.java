@@ -1,8 +1,8 @@
 public abstract class Midia
 {
     protected int id;
-    private String titulo;
-    private int ano;
+    protected String titulo;
+    protected int ano;
     private boolean disponivel;
     private static int contadorMidias = 0;
 
