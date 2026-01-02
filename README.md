@@ -51,7 +51,7 @@ Extraia o arquivo ZIP em uma pasta de sua preferência
 Exemplo:
 
 ```text
-C:\Users\Gilvan\Documents\LocadoraPOO-main\
+C:\Users\SeuNome\Documents\LocadoraPOO-main\
 ```
 
 ---
