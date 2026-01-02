@@ -11,7 +11,9 @@ Apesar de só haverem contribuições com a conta Davi Lisboa, os demais membros
 # 📀 Sistema de Gerenciamento de Mídias (Locadora POO)
 
 **Disciplina:** Programação Orientada a Objetos (SMD0017) – 2025.2
+
 **Linguagem:** Java
+
 **Prazo:** 16/01/2026
 
 ---
