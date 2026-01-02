@@ -1,4 +1,3 @@
-# POO-Sistema-de-Gerenciamento-de-Midias
 Trabalho final da disciplina de POO 2025.2.
 
 Apesar de só haverem contribuições com a conta Davi Lisboa, os demais membros participaram ativamente de atividades como:
