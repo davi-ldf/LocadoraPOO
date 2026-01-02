@@ -46,12 +46,12 @@ Extraia o arquivo ZIP em uma pasta de sua preferência
 
 ### Passo 1: Extrair os arquivos
 
-1. Extraia o arquivo **`LocadoraPOO.zip`** em uma pasta de sua preferência.
+1. Extraia o arquivo **`LocadoraPOO-main.zip`** em uma pasta de sua preferência.
 
 Exemplo:
 
 ```text
-C:\Users\Gilvan\Documents\LocadoraPOO\
+C:\Users\Gilvan\Documents\LocadoraPOO-main\
 ```
 
 ---
@@ -68,13 +68,13 @@ C:\Users\Gilvan\Documents\LocadoraPOO\
 No terminal, digite:
 
 ```bash
-cd "caminho/para/sua/pasta/LocadoraPOO/src"
+cd "caminho/para/sua/pasta/LocadoraPOO-main/src"
 ```
 
 Exemplo:
 
 ```bash
-cd "C:\Users\Gilvan\Documents\LocadoraPOO\src"
+cd "C:\Users\Gilvan\Documents\LocadoraPOO-main\src"
 ```
 
 ---
