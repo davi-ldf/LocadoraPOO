@@ -32,7 +32,17 @@ Apesar de só haverem contribuições com a conta Davi Lisboa, os demais membros
 
 ---
 
-## 2. Como executar (passo a passo)
+## 2. Como clonar o repositório no seu computador
+
+Acesse o repositório no GitHub
+
+Clique em Code → Download ZIP
+
+Extraia o arquivo ZIP em uma pasta de sua preferência
+
+---
+
+## 3. Como executar (passo a passo)
 
 ### Passo 1: Extrair os arquivos
 
@@ -89,7 +99,7 @@ java Locadora
 
 ---
 
-## 3. Usando o sistema (fluxo básico)
+## 4. Usando o sistema (fluxo básico)
 
 Ao executar o programa, o seguinte menu será exibido:
 
@@ -124,7 +134,7 @@ Ao executar o programa, o seguinte menu será exibido:
 
 ---
 
-## 4. Solução de problemas comuns
+## 5. Solução de problemas comuns
 
 ### Problema 1: `javac não é reconhecido`
 
@@ -185,7 +195,7 @@ Exemplo:
 
 ---
 
-## 5. Observações importantes
+## 6. Observações importantes
 
 * Os dados são armazenados **apenas na memória RAM** durante a execução
 * Ao encerrar o programa, **todos os dados são perdidos**
@@ -197,7 +207,7 @@ Exemplo:
 
 ---
 
-## 6. Conceitos de POO aplicados
+## 7. Conceitos de POO aplicados
 
 * **Encapsulamento:** atributos protegidos com getters e setters
 * **Herança:** `Cliente` e `Funcionario` herdam de `Pessoa`
