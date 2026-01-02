@@ -1,11 +1,5 @@
 # 📀 Sistema de Gerenciamento de Mídias (Locadora POO)
 
-**Disciplina:** Programação Orientada a Objetos (SMD0017) – 2025.2
-
-**Linguagem:** Java
-
-**Prazo:** 16/01/2026
-
 ---
 
 ## 1. Pré-requisitos
