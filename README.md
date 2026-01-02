@@ -108,17 +108,17 @@ Ao executar o programa, o seguinte menu será exibido:
 
 ### Para testar rapidamente:
 
-Digite **1** e cadastre uma mídia (filme ou série)
-Digite **2** e cadastre um cliente
-Digite **3** para realizar um empréstimo
-Digite **4** para realizar uma devolução
-Digite **5** para listar o catálogo completo
-Digite **6** para listar os clientes cadastrados
-Digite **7** para visualizar o relatório geral
-Digite **8** para listar as mídias disponíveis
-Digite **9** para exibir os detalhes das mídias
-Digite **10** para ver a distribuição por tipo de mídia
-Digite **0** para sair do sistema
+- Digite **1** e cadastre uma mídia (filme ou série)
+- Digite **2** e cadastre um cliente
+- Digite **3** para realizar um empréstimo
+- Digite **4** para realizar uma devolução
+- Digite **5** para listar o catálogo completo
+- Digite **6** para listar os clientes cadastrados
+- Digite **7** para visualizar o relatório geral
+- Digite **8** para listar as mídias disponíveis
+- Digite **9** para exibir os detalhes das mídias
+- Digite **10** para ver a distribuição por tipo de mídia
+- Digite **0** para sair do sistema
 
 ---
 
