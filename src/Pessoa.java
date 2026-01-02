@@ -3,7 +3,7 @@ public abstract class Pessoa
     protected int id;
     private String nome;
     private String email;
-    private static int contadorPessoas = 0;  
+    private static int contadorPessoas = 0;
 
     public Pessoa(String nome, String email) {
         this.id = ++contadorPessoas;
