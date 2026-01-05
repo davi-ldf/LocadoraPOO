@@ -58,7 +58,7 @@ cd "caminho/para/sua/pasta/LocadoraPOO-main/src"
 Exemplo:
 
 ```bash
-cd "C:\Users\Gilvan\Documents\LocadoraPOO-main\src"
+cd "C:\Users\SeuNome\Documents\LocadoraPOO-main\src"
 ```
 
 ---
